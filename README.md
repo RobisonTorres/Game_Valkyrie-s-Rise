@@ -54,6 +54,10 @@ Level 5 - A Way to Escape:
 ![image alt](imgs/Level5.png)
 <br>
 
+## Video
+
+Demo of the game [Valkyrie's Rise](https://www.dailymotion.com/video/k6T9fgsJVidcTxGJik6).
+
 ## Development
 
 The game was developed using the Unity game engine, with C# as the programming language. The art assets were created using a combination of pixel art and hand-drawn illustrations.
@@ -81,7 +85,7 @@ The game was developed using the Unity game engine, with C# as the programming l
 ## Tutorials That Helped in the Development
 
 - Unity 2D Platformer for Complete Beginners
-  https://www.youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV
+  Link: https://www.youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV
 
 - Unity MELEE COMBAT in 140 Seconds – Unity 2D Beginner Tutorial
-  https://www.youtube.com/watch?v=Lm7Uh88uQM8
+  Link: https://www.youtube.com/watch?v=Lm7Uh88uQM8
